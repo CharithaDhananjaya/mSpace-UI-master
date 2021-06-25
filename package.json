@@ -1,0 +1,20 @@
+{
+  "name": "mspace-ui",
+  "version": "1.0.0",
+  "description": "mSpace UI for SP managements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd server && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharithaDhananjaya/mSpace-UI.git"
+  },
+  "author": "Charitha Peiris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharithaDhananjaya/mSpace-UI/issues"
+  },
+  "homepage": "https://github.com/CharithaDhananjaya/mSpace-UI#readme"
+}

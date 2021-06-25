@@ -1,0 +1,30 @@
+[
+    {
+        "name": "sp1-test",
+        "spID": "1",
+        "spmobileNumber": "94719616446",
+        "spEmail": "tissera.malithi@gmail.com",
+        "messages": "Hi,We have sent you an important email to tissera.malithi@gmail.com on app migration process from mSpace & Inzpire platforms to mspace.lk. Pls check."
+    },
+    {
+        "name": "sp2-test",
+        "spID": "2",
+        "spmobileNumber": "94703841705",
+        "spEmail": "dilummanjula72@gmail.com",
+        "messages": "Hi,We have sent you an important email to dilummanjula72@gmail.com on app migration process from mSpace & Inzpire platforms to mspace.lk. Pls check."
+    },
+    {
+        "name": "sp3-test",
+        "spID": "3",
+        "spmobileNumber": "94717216815",
+        "spEmail": "abewikramaarach@gmail.com",
+        "messages": "Hi,We have sent you an important email to abewikramaarach@gmail.com on app migration process from mSpace & Inzpire platforms to mspace.lk. Pls check."
+    },
+    {
+        "name": "sp4-test",
+        "spID": "4",
+        "spmobileNumber": "94704301465",
+        "spEmail": "sandun.idemart@gmail.com",
+        "messages": "Hi,We have sent you an important email to sandun.idemart@gmail.com on app migration process from mSpace & Inzpire platforms to mspace.lk. Pls check."
+    }
+]
